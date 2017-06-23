@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Java
 
-This is a Tic Tac Toe Project I built
+This is a Tic Tac Toe Project I built.  Game is based on the traditional tic tac toe rules.  
 
 Technologies:
 
